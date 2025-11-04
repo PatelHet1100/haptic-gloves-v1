@@ -3,7 +3,7 @@
   Tests 5 flex sensors connected to ESP32.
   Prints analog values to Serial Monitor.
   Author: Het Patel
-  Date: 2025-11
+  Date: 2024-11
 */
 
 #define NUM_FLEXS 5
